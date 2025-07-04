@@ -19,10 +19,10 @@
 
 <section class="features">
   <div class="container">
-    <h3>Profil Developer</h3>
-    <p><strong>Nama:</strong> Premium Portal 48</p>
-    <p><strong>Kompetensi:</strong> HTML, CSS, PHP, Git, TailwindCSS (dasar), MySQL (dasar)</p>
-    <p><strong>Portofolio:</strong> <a href="https://github.com/username" target="_blank">github.com/username</a></p>
+    <h3>Profil Developer</h3><br>
+    <p><strong>Nama:</strong> Cantika Anggi Anggraheni</p>
+    <p><strong>Kompetensi:</strong> HTML(dasar), CSS(dasar), PHP(dasar), Git(dasar), TailwindCSS (dasar), MySQL (dasar)</p>
+    <p><strong>Portofolio:</strong> <a href="https://github.com/cantikaanggiangraheni/mbc-landingpage.git" target="_blank">https://github.com/cantikaanggiangraheni/mbc-landingpage.git</a></p>
   </div>
 </section>
 
