@@ -8,8 +8,17 @@
 </head>
 <body>
 
-  <?php include 'includes/header.php'; ?>
-
+  <header class="navbar">
+    <div class="container">
+      <h1 class="logo">MBC Laboratory</h1>
+      <nav class="nav-links">
+        <a href="index.php">Home</a>
+        <a href="services.php">Divisi</a>
+        <a href="contact.php">Kontak</a>
+        <a href="developer.php">Developer</a>
+      </nav>
+    </div>
+  </header>
   <section class="hero">
     <div class="container">
       <h2>Selamat Datang di MBC Lab</h2>
@@ -26,7 +35,8 @@
     </div>
   </section>
 
-  <?php include 'includes/footer.php'; ?>
-
-</body>
+  <footer class="footer">
+    <p>&copy; 2025 MBC Laboratory. All rights reserved.</p>
+  </footer>
+  </body>
 </html>
